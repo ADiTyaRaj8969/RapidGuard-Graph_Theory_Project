@@ -61,3 +61,12 @@ Rapid Guard uses:
 
 Special thanks to the **DMGT (Discrete Mathematics and Graph Theory)** foundation, and all the contributors and mentors who helped shape this idea into a working solution.
 
+---
+## 🔗 Connect with Me
+
+- 🔗 GitHub: [@ADiTyaRaj8969](https://github.com/ADiTyaRaj8969)  
+- ✉️ Email: adivid198986@gmail.com  
+- 💼 LinkedIn: [Aditya Raj](https://www.linkedin.com/in/aditya-raj-710a5a291/)
+
+---
+
